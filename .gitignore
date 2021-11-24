@@ -1,0 +1,6 @@
+.user.ini
+index.php
+.idea
+sftp-config.json
+/vendor
+composer.lock
